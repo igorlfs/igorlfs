@@ -8,11 +8,7 @@ I'm a computer science student (6/10) at UFMG.
 
 ### Other Stuff
 
-[![My Skills](https://skillicons.dev/icons?i=gradle,latex,bash,nodejs,ts)](https://skillicons.dev)
-
-### Tools I use
-
-[![My Tools](https://skillicons.dev/icons?i=linux,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,gradle,latex,bash,nodejs,ts)](https://skillicons.dev)
 
 ## Current Projects
 
