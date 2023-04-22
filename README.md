@@ -1,5 +1,15 @@
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorlfs&layout=compact&theme=dark&langs_count=4&hide=jupyter%20notebook">
+## Main
 
-[![My Skills](https://skillicons.dev/icons?i=java,gradle,bash,linux,lua,neovim)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,cpp,python)](https://skillicons.dev)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=igorlfs&show_icons=true&theme=dark)
+## Basics
+
+[![](https://skillicons.dev/icons?i=c,js,ts,java,gradle,bash,lua)](https://skillicons.dev)
+
+## OS | IDE
+
+[![](https://skillicons.dev/icons?i=linux,neovim)](https://skillicons.dev)
+
+## Stats
+
+![](https://github-readme-stats.vercel.app/api?username=igorlfs&show_icons=true&theme=dark)
