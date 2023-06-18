@@ -6,7 +6,7 @@
 
 - [Contact me](mailto:igorlafarsi@gmail.com)
 
-- Below is a list of technologies I've used. The "Primary" section encompasses languages I've worked extensively, meaning I've written my own projects. The "Secondary" section lists stuff I'm still learning or otherwise haven't mastered.
+- Below is a list of programming languages I've used. The "Primary" section encompasses languages I've worked extensively, meaning I've written my own projects. The "Secondary" section lists stuff I'm still learning or otherwise haven't mastered.
 
 ### Primary
 
@@ -14,12 +14,15 @@
 
 ### Secondary
 
-[![](https://skillicons.dev/icons?i=c,ts,jest,nodejs,vue,tensorflow,java,gradle,lua,bash,github,githubactions,git)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,ts,lua,java,bash)](https://skillicons.dev)
 
-### OS | IDE
+### Miscellaneous
 
-[![](https://skillicons.dev/icons?i=linux,neovim)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,neovim,github,githubactions,git)](https://skillicons.dev)
 
-## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=igorlfs&show_icons=true&theme=dark)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=igorlfs&show_icons=true&theme=dark" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlfs&theme=dark&hide=jupyter%20notebook" />
+</p>
