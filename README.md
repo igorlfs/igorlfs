@@ -1,7 +1,7 @@
 - I like to code. For instance:
   - Arcade-like [game collection](https://github.com/lframosferreira/bevy-games), built with [bevy](https://bevyengine.org/), in collaboration with [lframosferreira](https://github.com/lframosferreira)
   - Parody soccer betting [app](https://github.com/igorlfs/NoBet), built with [Flutter](https://flutter.dev/)
-  - Machine Learning [model](https://github.com/igorlfs/ml#projeto) to predict ICU survivability, written in Python using [Tensorflow](https://www.tensorflow.org/), [skicit-learn](https://scikit-learn.org/stable/) and [xgboost](https://xgboost.readthedocs.io/en/stable/)
+  - Machine Learning [model](https://github.com/igorlfs/ml#projeto) to predict ICU survivability, written in Python using [Tensorflow](https://www.tensorflow.org/), [scikit-learn](https://scikit-learn.org/stable/) and [xgboost](https://xgboost.readthedocs.io/en/stable/)
   - [Tool](https://github.com/igorlfs/sorting-visualizer) to visualize sorting algorithms, written in Rust using [egui](https://www.egui.rs/), in collaboration with [lframosferreira](https://github.com/lframosferreira)
   - Powerful Linux [configuration](https://github.com/igorlfs/dotfiles)
 - Computer Science student @ [UFMG](https://ufmg.br/)
