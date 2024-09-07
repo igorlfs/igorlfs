@@ -20,7 +20,7 @@
   <h4>Front-end</h4>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,tailwind">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=igorlfs&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=igorlfs&show_icons=true&theme=catppuccin_mocha" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlfs&theme=dark&hide=jupyter%20notebook&exclude_repo=basic-minecraft-modding" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlfs&theme=catppuccin_mocha&hide=jupyter%20notebook&exclude_repo=basic-minecraft-modding" />
 </div>
