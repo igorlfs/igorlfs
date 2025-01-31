@@ -1,16 +1,24 @@
 
 - Projects
-  - 📈 [Dashboard](https://github.com/igorlfs/poc-code) to visualize errors in Machine Learning models, using [dash](https://dash.plotly.com/)
-  - 💡 [Heuristic](https://github.com/igorlfs/hm-proj) for the Graph Coloring Problem (collab with [vinisilvag](https://github.com/vinisilvag))
-  - ⚽ Parody soccer betting [app](https://github.com/igorlfs/NoBet), built with [Flutter](https://flutter.dev/)
-  - 🤖 Machine Learning [model](https://github.com/igorlfs/ml#projeto) to predict ICU survivability, built with [TensorFlow](https://www.tensorflow.org/)
-  - 📶 [Tool](https://github.com/igorlfs/sorting-visualizer) to visualize sorting algorithms, built with [egui](https://www.egui.rs/) (collab with [lframosferreira](https://github.com/lframosferreira))
-  - 👾 [A bunch of games](https://github.com/igorlfs?tab=repositories&q=ncurses&type=&language=&sort=) using [ncurses](https://invisible-island.net/ncurses/)
-  - 🐧 Powerful Linux [configuration](https://github.com/igorlfs/dotfiles) for Neovim and Hyprland
+  - Active
+    - Neovim Plugins
+      - 🪲 [Visualize](https://github.com/igorlfs/nvim-dap-view) debugging sessions in Neovim!
+    - 🐧 Powerful Linux [configuration](https://github.com/igorlfs/dotfiles) for Neovim and Hyprland
+  - Miscellaneous
+    - 💬 ChatGPT [clone](https://github.com/igorlfs/chatogpt3), built with [Tauri](https://tauri.app/)
+    - ⚽ Parody soccer betting [app](https://github.com/igorlfs/NoBet), built with [Flutter](https://flutter.dev/)
+    - 📶 [Tool](https://github.com/igorlfs/sorting-visualizer) to visualize sorting algorithms, built with [egui](https://www.egui.rs/) (collab with [lframosferreira](https://github.com/lframosferreira))
+    - 👾 [A bunch of games](https://github.com/igorlfs?tab=repositories&q=ncurses&type=&language=&sort=) using [ncurses](https://invisible-island.net/ncurses/)
+  - Academic
+    - 🧬 [Genetic Programming](https://github.com/igorlfs/tp1-cn) algorithm to estimate distance functions
+    - 📈 [Dashboard](https://github.com/igorlfs/poc-code) to visualize errors in Machine Learning models, using [dash](https://dash.plotly.com/)
+    - 💡 [Heuristic](https://github.com/igorlfs/hm-proj) for the Graph Coloring Problem (collab with [vinisilvag](https://github.com/vinisilvag))
+    - 🤖 [Machine Learning](https://github.com/igorlfs/ml#projeto) model to predict ICU survivability, built with [TensorFlow](https://www.tensorflow.org/)
 - Education
-  - 🎓 [2021-Current] Computer Science @ [UFMG](https://ufmg.br/)
+  - 🎓 [2021-2025] Computer Science @ [UFMG](https://ufmg.br/)
 - Experience
-  - 💬 [2023-Current] Intern @ [WhiteWall](https://whitewall.dev/)
+  - 💬 [2024-Current] Full Stack Engineer @ [WhiteWall](https://whitewall.dev/)
+  - 💬 [2023-2024] Intern @ [WhiteWall](https://whitewall.dev/)
   - 📊 [2021-2023] Volunteer @ [PiJúnior](https://www.pijunior.com.br/)
 - [Contact](mailto:igorlafarsi@gmail.com)
 
